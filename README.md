@@ -1,6 +1,6 @@
 # JavaLabPrograms
-Write a java program to
-1.print “hello world”
+#Write a java program to
+#1.print “hello world”
 2.add two numbers
 3.check given no is odd or even
 4.check given no is prime or not
