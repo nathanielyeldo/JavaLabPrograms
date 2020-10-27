@@ -1,5 +1,5 @@
 # JavaLabPrograms
-Write a java program to. 
+Write a java program to <br />
 1.print “hello world”. 
 2.add two numbers. 
 3.check given no is odd or even. 
